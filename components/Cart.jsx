@@ -81,7 +81,7 @@ const Cart = () => {
 
 			toastId = toast.loading('Redirecting...');
 
-			const payslice_site = "localhost:3001/payment";
+			const payslice_site = "https://payment-gateway-1rxbjnrlo-narteysarso.vercel.app/payment";
 			window.open(`http://${payslice_site}?ref=${window.location.href}&cad=${result.proxy}&pid=${result.payeruid}`, '_blank', 'location=yes,height=570,width=520,scrollbars=yes,status=yes');
 			// console.log('window');
 
