@@ -9,7 +9,7 @@ import Link from 'next/link';
 import { useStateContext } from '../context/StateContext';
 import { urlFor } from '../lib/client';
 import { TOKENS } from '../constants/tokens';
-import { address as loggerAddress, abi as loggerAbi } from "../constants/logger.json";
+import { address as loggerAddress, abi as loggerAbi } from "../constants/Logger.json";
 import { keccak256 } from 'ethers/lib/utils';
 
 const Cart = () => {

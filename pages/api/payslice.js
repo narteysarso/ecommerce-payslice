@@ -1,4 +1,4 @@
-import CONTRACT_ABI from "../../constants/payslice.json";
+import CONTRACT_ABI from "../../constants/Payslice.json";
 import Web3 from "web3";
 
 const web3Eth = new Web3("https://alfajores-forno.celo-testnet.org");
