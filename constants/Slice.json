@@ -3,6 +3,7 @@
   "_format": "hh-sol-artifact-1",
   "contractName": "Slice",
   "sourceName": "contracts/base/Slice.sol",
+  
   "abi": [
     {
       "inputs": [],

@@ -3,6 +3,7 @@
   "_format": "hh-sol-artifact-1",
   "contractName": "Logger",
   "sourceName": "contracts/Logger.sol",
+  
   "abi": [
     {
       "inputs": [],

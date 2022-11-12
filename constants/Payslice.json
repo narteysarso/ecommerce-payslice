@@ -3,6 +3,7 @@
   "_format": "hh-sol-artifact-1",
   "contractName": "Payslice",
   "sourceName": "contracts/Payslice.sol",
+  
   "abi": [
     {
       "anonymous": false,
